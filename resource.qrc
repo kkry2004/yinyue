@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/listrandom.png</file>
+        <file>resource/listrepeat.png</file>
+        <file>resource/nextsong.png</file>
+        <file>resource/opendir.png</file>
+        <file>resource/pause.png</file>
+        <file>resource/playing.png</file>
+        <file>resource/presong.png</file>
+        <file>resource/songrepeat.png</file>
+        <file>resource/volume.png</file>
+        <file>resource/loveicon.png</file>
+        <file>resource/wakin.png</file>
+        <file>resource/musicpicture/0.png</file>
+        <file>resource/musicpicture/1.png</file>
+        <file>resource/musicpicture/2.png</file>
+        <file>resource/musicpicture/3.png</file>
+        <file>resource/musicpicture/4.png</file>
+        <file>resource/musicpicture/5.png</file>
+        <file>resource/musicpicture/6.png</file>
+        <file>resource/musicpicture/7.png</file>
+        <file>resource/musicpicture/8.png</file>
+        <file>resource/musicpicture/9.png</file>
+        <file>resource/musicpicture/10.png</file>
+        <file>resource/musicpicture/11.png</file>
+        <file>resource/musicpicture/12.png</file>
+        <file>resource/musicpicture/13.png</file>
+        <file>resource/musicpicture/14.png</file>
+        <file>resource/musicpicture/15.png</file>
+    </qresource>
+</RCC>
